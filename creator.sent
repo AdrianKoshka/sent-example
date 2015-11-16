@@ -1,0 +1,35 @@
+Creator Ci20
+
+@pics/board.png
+
+Specs:
+- CPU: 
+    - 1.2 GHz dual-core, MIPS32-based Ingenic JZ4780 SoC
+    - 32kB L1 I- and D-cache, 512kB L2 cache
+- FPU/SIMD: 
+    - IEEE754 Floating Point Unit, XBurst MXU
+- GPU:
+    - PowerVR SGX540 GPU
+        - hardware-accelerated video playback up to 1080p at 60 fps
+- Memory:
+    - 1 GB DDR3 SDRAM
+    - 8 GB flash memory
+    - 1 x SD card slot
+More specs available at: 
+- http://blog.imgtec.com/powervr/updated-creator-ci20-improved-board-layout-flowcloud-support
+
+
+Software:
+- OS Support:
+    - Debian 7/8
+        - http://elinux.org/CI20_Distros#Debian
+    - Gentoo 
+    - Yocto Linux
+    - Android 4.4 KitKat
+- SDK:
+    - FlowCloud
+        - http://www.imgtec.com/flowcloud/
+
+@pics/flowcloud.png
+
+The end
