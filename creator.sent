@@ -1,7 +1,10 @@
 Creator Ci20
+# title slide
 
+# slide showing the board off
 @pics/board.png
 
+# slide of the specs
 Specs:
 - CPU: 
     - 1.2 GHz dual-core, MIPS32-based Ingenic JZ4780 SoC
@@ -18,7 +21,7 @@ Specs:
 More specs available at: 
 - http://blog.imgtec.com/powervr/updated-creator-ci20-improved-board-layout-flowcloud-support
 
-
+# Slide of various software details
 Software:
 - OS Support:
     - Debian 7/8
@@ -30,6 +33,8 @@ Software:
     - FlowCloud
         - http://www.imgtec.com/flowcloud/
 
+# infographic of flowcloud
 @pics/flowcloud.png
 
+# end slide
 The end
