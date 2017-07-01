@@ -14,4 +14,4 @@ sent creator.sent
 ## License
 
 - `sent-example` itself is under the [MIT license](LICENSE).
-- Images in the `pics` directory are credit of [creatordev.io](https://creatordev.io)
+- Images in the `pics` directory belong to [creatordev.io](https://creatordev.io) and are used under fair use.
