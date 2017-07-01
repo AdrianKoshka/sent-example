@@ -5,7 +5,7 @@ can be viewed using [sent](http://tools.suckless.org/sent) by doing:
 
 ```bash
 git clone https://github.com/AdrianKoshka/sent-example.git
-cd sent
+cd sent-example
 sent creator.sent
 ```
 
