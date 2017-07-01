@@ -10,3 +10,8 @@ sent creator.sent
 ```
 
 [View the slides](presentation-slide-pics/README.md)
+
+## License
+
+- `sent-example` itself is under the [MIT license](LICENSE).
+- Images in the `pics` directory are credit of [creatordev.io](https://creatordev.io)
