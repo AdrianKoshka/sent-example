@@ -2,7 +2,7 @@ Creator Ci20
 # title slide
 
 # slide showing the board off
-@pics/board.png
+@pics/board.ff
 
 # slide of the specs
 Specs:
@@ -34,7 +34,7 @@ Software:
         - http://www.imgtec.com/flowcloud/
 
 # infographic of flowcloud
-@pics/flowcloud.png
+@pics/flowcloud.ff
 
 # end slide
 The end
